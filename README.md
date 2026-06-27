@@ -37,6 +37,7 @@ Bottom-up 3-statement revenue projection model for ITC Limited. Segment-level re
 ## 🎓 Certifications
 
 - 🏅 [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/FY2PU8MT7E6X) — Coursera, June 2026
+- 🥇 [Deloitte Data Analytics Job Simulation](file:///C:/Users/Sweta%20Sahani/OneDrive/Desktop/Certificates/Deloitte%20Data%20analytics.pdf) — Forage, June 2026
 
 ---
 
