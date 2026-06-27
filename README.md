@@ -28,9 +28,10 @@ Consulting-style analysis of Dabur India's financial underperformance across 13 
 Google Data Analytics Capstone project. Analysed smart device usage data using Python to identify behavioural trends and deliver marketing recommendations for Bellabeat.
 `Python` `Pandas` `Matplotlib` `Google Colab`
 
-### 📊 [ITC Limited — Financial Model](https://github.com/Sweta-Sahani/itc-financial-model)
+### 📈 [ITC Limited — Financial Model](https://github.com/Sweta-Sahani/itc-financial-model)
 Bottom-up 3-statement revenue projection model for ITC Limited. Segment-level revenue projections (FY26–FY28E) built on FY21–FY25 annual report data. Covers OPM%, ROCE%, PAT Margin% with a dynamic assumptions table.
 `Excel` `Financial Modelling` `Strategy` `Consulting`
+
 ---
 
 ## 🎓 Certifications
